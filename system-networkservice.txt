@@ -5,3 +5,4 @@ The system network services are not compatible with this version
 这个错误提示，应该是：NetworkManager 服务没有启动， 最简单解决就是启动NetworkManager服务，并设置开机自动启动， 命令执行：
 
 # service NetworkManager start
+new suer
