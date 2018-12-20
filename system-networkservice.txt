@@ -6,3 +6,5 @@ The system network services are not compatible with this version
 
 # service NetworkManager start
 new suer
+
+Èö·ÉÈ÷µØ·½
